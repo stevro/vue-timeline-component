@@ -1,6 +1,6 @@
 {
-  "name": "vue-timeline-component",
-  "version": "0.1.6",
+  "name": "@stevro/vue-timeline-component",
+  "version": "0.1.0",
   "main": "dist/vue-timeline-component.umd.js",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -20,7 +20,7 @@
   "license": "MIT",
   "devDependencies": {
     "core-js": "^3.6.4",
-    "vue": "^2.6.11",
+    "vue": "^3.2.13",
     "@vue/cli-plugin-babel": "^4.2.0",
     "@vue/cli-plugin-eslint": "^4.2.0",
     "@vue/cli-service": "^4.2.0",
